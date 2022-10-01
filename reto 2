@@ -1,1 +1,28 @@
 reto 2
+
+git clone https://github.com/RoguersRivera/rerto-ciclo3.git ----- clonar reposictorio 
+cd rerto-ciclo3/ -------------- ingresar a la carpeta clonda 
+git status -------------- muestra que se esta haciendo
+git add --all  ----------- selecciona todos los rachivos y cambios 
+git commit -m "xxxxxxxxxxxxxxxxxx"  se desbribe los cambios que se hicieron 
+git push ----------- sube todos los cambios gidup
+git checkout -b xxxxxxxxxxxxxx ------- crea una rama 
+git checkout main ----------regregsar a la rama principal 
+git push -u origin  xxxxxxxxxxx ------ ingresa a la rama 
+git pull --- trae los archivos de gitap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
